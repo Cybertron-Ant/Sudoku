@@ -39,6 +39,25 @@ input{
     height: 40px;
 }*/
 
+
+
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+
+footer {
+  height: 20px;
+  background: darkmagenta;
+  margin-top: auto; 
+}
+
+
+
+
   input{
             font-size: 17px;
             margin-top: 3px;
